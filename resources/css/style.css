@@ -1,5 +1,6 @@
 * {
 	background-color: black;
+	text-align: center;
 }
 
 .coming_soon_link {
@@ -8,10 +9,27 @@
 	text-align: center;
 }
 
+.travel_guide {
+	color: gray;
+	font-size: 21px;
+	font-family: verdana;
+}
+
+.personal_travel {
+	font-family: verdana;
+	font-weight: 300;
+	font-size: 42px;
+}
+
 header {
 	font-family: verdana;
 	font-weight: normal;
 	font-size: 50px;
 	color: white;
 	text-align: center;
+}
+
+footer {
+	color: gray;
+	text-align: right;
 }
